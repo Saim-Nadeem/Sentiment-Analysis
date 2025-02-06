@@ -39,7 +39,18 @@ This project implements a simple **rule-based sentiment analysis** algorithm usi
 - Save the final sentiment-labeled reviews to a text file.  
 
 ## 🚀 How to Run the Project  
-- Run the Jupyter Notebook (Code.ipynb) to execute the sentiment analysis.
+### Steps to Execute  
+
+1. **Extract the Reviews Zip File:**  
+   - Unzip the file and ensure **Cell_Phones_and_Accessories_5** is extracted.  
+
+2. **Organize the Files:**  
+   - Place **Cell_Phones_and_Accessories_5** in the same folder as **Code.ipynb**.  
+   - Ensure **stopword.txt** is also in the same folder.  
+
+3. **Run the Jupyter Notebook:**  
+   - Open **Code.ipynb** in Jupyter Notebook.  
+   - Execute all cells to perform sentiment analysis.  
 
 ## 📌 Example Output
 Review: "This phone is amazing! The battery lasts long."  
